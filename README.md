@@ -1,2 +1,4 @@
-handwritter_phiếu_trắc_nghiệm 
-using OPENCV- CNN   
+handwritter_phiếu_trắc_nghiệm.
+Using OPENCV- CNN.
+Datasets handwritten kaggle 
+
